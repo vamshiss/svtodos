@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+#adbtn {
+  background-color: greenyellow;
+  height: 30px;
+  width: 70px;
+  border-radius: 5px;
+}
+button {
+  background-color: rgb(255, 151, 53);
+  height: 30px;
+  width: 70px;
+  border-radius: 5px;
+}
+h1 {
+  text-decoration: underline;
+  background-color: antiquewhite;
+  margin-left: 200px;
+  margin-right: 200px;
+}
